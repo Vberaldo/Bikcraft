@@ -5,6 +5,7 @@
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 /* utilidades */
 @import "./utilidades/componentes.css";
@@ -14,3 +15,6 @@
 
 /*bicicletas lista */
 @import "./bicicletas/bicicletas-lista.css";
+
+/*Seguros */
+@import "./seguros.css/seguros.css";
