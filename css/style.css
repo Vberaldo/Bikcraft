@@ -21,6 +21,8 @@
 
 /*Seguros */
 @import "./seguros.css/seguros.css";
+@import "./seguros.css/vantagens.css";
+@import "./seguros.css/perguntas.css";
 
 /*Termos */
 @import "./seguros.css/termos/termos.css";
